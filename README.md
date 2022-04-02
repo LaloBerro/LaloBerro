@@ -8,6 +8,6 @@
   </a>
   
   <a href="https://www.linkedin.com/in/laurencioberro/">
-    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
