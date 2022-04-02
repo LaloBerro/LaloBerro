@@ -13,3 +13,6 @@ Welcmome to my Git!
     <img src="https://img.shields.io/badge/Medium-grey?style=flat&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
+<img src="https://komarev.com/ghpvc/?username=LaloBerro&style=flat-square&color=blue" alt=""/>
