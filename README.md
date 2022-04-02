@@ -22,3 +22,13 @@
     <img src="https://img.shields.io/badge/Medium-grey?style=flat-square&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/laurencioberro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/laurencioberro/">
+    <img src="https://img.shields.io/badge/Medium-grey?style=flat&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
