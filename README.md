@@ -15,4 +15,4 @@ Welcmome to my Git!
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=LaloBerro&style=flat-square&color=blue" alt=""/>
+//<img src="https://komarev.com/ghpvc/?username=LaloBerro&style=flat-square&color=blue" alt=""/>
