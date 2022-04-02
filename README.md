@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/syfy-sharknado-4-the-4th-awakens-3owyp3qvi0mLl5GZAQ" width="100"/>
 </div>
