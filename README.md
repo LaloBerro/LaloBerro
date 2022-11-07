@@ -7,8 +7,8 @@ I’m Laurencio a.k.a Lalo, I have been working professionally as a videogame pr
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/laurencioberro/">
-    <img src="https://img.shields.io/badge/Medium-grey?style=flat&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://medium.com/@laurencioberro">
+    <img src="https://img.shields.io/badge/Medium-grey?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
