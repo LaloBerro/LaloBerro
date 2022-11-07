@@ -1,10 +1,3 @@
-
-
-<h1>
-  HI!
-  <img src="https://i.gifer.com/6oa.mp4" width="30px"/>
-</h1>
-
 <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Banner.png" alt="">
 
 <div id="header" align="left">
