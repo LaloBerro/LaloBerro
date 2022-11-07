@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Banner.png" alt="">
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/3owyp3qvi0mLl5GZAQ/giphy.gif" width="500"/>
-</div>
-
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/laurencioberro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
