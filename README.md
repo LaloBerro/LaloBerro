@@ -12,7 +12,5 @@ I’m Laurencio a.k.a Lalo, I have been working professionally as a videogame pr
   </a>
 </div>
 
-<a href="https://www.linkedin.com/in/laurencioberro/">
-    <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Title.png" alt="LinkedIn Badge"/>
-  </a>
 
+<img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Title.png" alt="">
