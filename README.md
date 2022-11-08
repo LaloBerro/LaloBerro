@@ -47,8 +47,8 @@ I’m Laurencio a.k.a Lalo, I have been working professionally as a videogame pr
     
 <div id="Articles" align="left">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/0" alt="Recent Article 0" width="500"> 
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/0" alt="Recent Article 0" width="400"> 
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/1">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/1" alt="Recent Article 1" width="500"> 
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/1" alt="Recent Article 1" width="400"> 
 </div>
