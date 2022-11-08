@@ -14,3 +14,19 @@ I’m Laurencio a.k.a Lalo, I have been working professionally as a videogame pr
 
 
 <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Title.png" alt="">
+
+<div id="Gits1" align="left">
+  <a href="https://www.linkedin.com/in/laurencioberro/">
+    <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button1.png" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://medium.com/@laurencioberro">
+    <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button2.png" alt="Medium Badge"/>
+  </a>
+  <a href="https://medium.com/@laurencioberro">
+    <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button3.png" alt="Medium Badge"/>
+  </a>
+  <a href="https://medium.com/@laurencioberro">
+    <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button4.png" alt="Medium Badge"/>
+  </a>
+</div>
