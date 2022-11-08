@@ -13,9 +13,11 @@ I’m Laurencio a.k.a Lalo, I have been working professionally as a videogame pr
   <a href="https://github.com/LaloBerro/UPM-MVVMFramework">
     <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button2.png" alt="Medium Badge"/>
   </a>
+  
   <a href="https://github.com/LaloBerro/MVP-LoginExample">
     <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button3.png" alt="Medium Badge"/>
   </a>
+  
   <a href="https://github.com/LaloBerro/UnityPackageTemplate">
     <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/Button4.png" alt="Medium Badge"/>
   </a>
@@ -31,10 +33,22 @@ I’m Laurencio a.k.a Lalo, I have been working professionally as a videogame pr
   <a href="https://medium.com/@laurencioberro">
     <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/ButtonsNetworks2.png" alt="Medium Badge"/>
   </a>
+  
   <a href="https://www.youtube.com/playlist?list=PLcWV4eLgx7dSaFFyVy95kqcj-OUkk5O8i">
     <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/ButtonsNetworks3.png" alt="Medium Badge"/>
   </a>
+  
   <a href="https://open.spotify.com/user/laloberro?si=0bbe7659ae394a2d">
     <img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/ButtonsNetworks4.png" alt="Medium Badge"/>
   </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/LaloBerro/LaloBerro/main/TitleArticles.png" alt="">
+    
+<div id="Articles" align="left">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/0" alt="Recent Article 0" width="500"> 
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@laurencioberro/1" alt="Recent Article 1" width="500"> 
 </div>
